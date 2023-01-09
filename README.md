@@ -31,9 +31,9 @@ I mostly work with Linux, Git, Jenkins, Docker, Mysql, Python and Multi Cloud ba
 
 
 📫 How to reach me?
-- Connect with me on [LinkedIn](linkedin.com/in/gokul-marathe-101988175).👨🏻‍💻
+- Connect with me on [Linkedin](https://www.linkedin.com/in/gokul-marathe-101988175/).👨🏻‍💻
 - Follow me on [Instagram]() ✨
-- Shoot Me an [Email](gokulmarathe22@gmail.com) 💌
+- Shoot Me an Email gokulmarathe22@gmail.com. 💌
 
 
 
